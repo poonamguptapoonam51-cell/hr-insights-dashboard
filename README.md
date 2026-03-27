@@ -24,4 +24,4 @@ This project showcases an interactive HR Insights Dashboard built using Power BI
 ## 🔗 Connect with Me
 LinkedIn:https://www.linkedin.com/in/poonam-gupta-964252353 
 
-GitHub:https://github.com/poonamguptapoonam51-c
+Email: poonamguptapoonam51@gmail.com
